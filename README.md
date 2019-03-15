@@ -6,7 +6,6 @@
 
 下面是我的文件目录 一个application类，一个controller，一个映射的mapper和mapper.xml,和一个基本类 和 手动创建的main中的webapp...jsp
 
-![img](file:///C:\Users\HP\AppData\Roaming\Tencent\Users\1033515525\QQ\WinTemp\RichOle\RGZZ5$2SF8PMLCF{}~`{J22.png) 
 
 ## 首先创建一个maven项目
 
@@ -332,7 +331,6 @@ public class yuedulijie {
 
 ### 数据库表
 
-下面是数据库表与信息代码![1552640045224](C:\Users\HP\AppData\Local\Temp\1552640045224.png)
 
 ```
 CREATE TABLE `NewTable` (
@@ -357,8 +355,6 @@ ROW_FORMAT=DYNAMIC
 
 ## 项目结果
 
-配置完成这些就完成了Springboot整合SSM+JSP页面 的基本实现结果结果如下图显示
-
-![1552640150288](C:\Users\HP\AppData\Local\Temp\1552640150288.png)
+配置完成这些就完成了Springboot整合SSM+JSP页面
 
 如果自己想做出更复杂的逻辑以及功能，就可以在这些代码上进行添加。感谢观看 记得点个赞~有不对的评论私聊指出都行 一起进步！
