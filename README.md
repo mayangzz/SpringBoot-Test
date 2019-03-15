@@ -2,6 +2,8 @@
 
 第一次上传代码，有什么说的不对或者不仔细的请指出 慢慢学习进步
 
+因为图片问题有些没有上传具体的目录结构请下载源码打开查看
+
 这个项目使用eclipse来写的 用Springboot来整合ssm用jsp页面来表示，虽然Springboot官方并不太支持用jsp页面来表示，但我这里提供jsp来给一些有需求的人 比如我自己~.
 
 下面是我的文件目录 一个application类，一个controller，一个映射的mapper和mapper.xml,和一个基本类 和 手动创建的main中的webapp...jsp
@@ -105,13 +107,11 @@ mybatis.type-aliases-package=cn.my.application.pojo 这个是基本类的位置
 
 既然有对应的mapper映射的位置那就肯定有mapper目录
 
-![1552638774974](C:\Users\HP\AppData\Local\Temp\1552638774974.png)
-
 我的mapper目录是放在resources下的 所有mapper.xml也放在这里
 
 ## 目录结构以及类的内容
 
-![1552638849719](C:\Users\HP\AppData\Local\Temp\1552638849719.png)
+
 
 然后根据上图创建相同的目录结构，cn.my.application负责启动类，其他的包都要在cn.my.application.*创建方便springboot的调用 首先是application.java的内容
 
