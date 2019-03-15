@@ -146,8 +146,6 @@ public class application {
 
 首先创建controller层的话，因为我们是用jsp来显示，那么对应的我们也要配置相应的jsp页面，目录如下
 
-![1552639051652](C:\Users\HP\AppData\Local\Temp\1552639051652.png)
-
 下面是jsp的页面内容，传进来的参会在controller层代码看见
 
 ```
